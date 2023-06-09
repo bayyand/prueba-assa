@@ -15,7 +15,7 @@ _Estas dependencias son de uso gratuito._
 
 ### Configuración del entorno de desarrollo local
 
-Antes de iniciar el proyecto es necesario instalar las dependencias necesarias para el que la aplicacion web funcione.
+Antes de iniciar el proyecto es necesario instalar las dependencias necesarias para el que la aplicación web funcione.
 
 - Cypress
 <p align="center">
